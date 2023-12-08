@@ -1,7 +1,11 @@
 
-names = [ 'd', 'c', 'b', 'a' ]
-console.log(names);
-console.log("Hello")
+names = [
+    'Celina', 'Victoria',
+    'Erik',   'Linus',
+    'Tilda',  'Alfons',
+    'Viktor', 'William',
+    'Simon',  'Eline'
+  ]
 
 function HandlePress() {
     name = document.getElementById("name").value;
