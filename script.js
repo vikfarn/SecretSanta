@@ -1,10 +1,11 @@
 
 names = [
-    'Celina', 'Victoria',
-    'Erik',   'Linus',
-    'Tilda',  'Alfons',
-    'Viktor', 'William',
-    'Simon',  'Eline'
+    'Victoria', 'Alex',
+    'Lily',     'Thea',
+    'Frans',    'Kristoffer',
+    'Emilia',   'Marcus',
+    'Linden',   'ViktorF',
+    'Lee',      'Edward'
   ]
 
 function HandlePress() {
